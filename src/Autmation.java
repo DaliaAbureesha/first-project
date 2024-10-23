@@ -18,7 +18,7 @@ public class Autmation {
 //Dalia Abureesha
 	String myWebsite = "https://automationteststore.com/";
 	String[] firstNames = { "ahmad", "ali", "anas", "omar", "ayat", "alaa", "sawsan", "Rama" };
-	String[] LastNames = { "Khaled", "mustafa", "Mohammad", "abdullah", "malek", "omar" };
+	String[] LastNames = { "Khaled", "mustafa", "Mohammad", "abdullah", "malek", "omar","Dalia" };
 
 	Random rand = new Random();
 
